@@ -6,3 +6,6 @@ npx ng serve
 ng= angular
 para criar novo componente
  npx ng g c + nome do componenter
+
+ site para cores CSS
+ https://tailwindcss.com/docs/colors
